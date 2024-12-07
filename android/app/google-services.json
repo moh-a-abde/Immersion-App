@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "468661835566",
+    "project_id": "immersion-chat-bot-09jxq9",
+    "storage_bucket": "immersion-chat-bot-09jxq9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468661835566:android:faea77afcc495169b0ccbf",
+        "android_client_info": {
+          "package_name": "com.mycompany.immersion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_z_ZrPY3mPulRKMR6T7lMdrnWDAx_OXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468661835566:android:5b6d4a6dd52d002bb0ccbf",
+        "android_client_info": {
+          "package_name": "com.mycompany.immersionchatbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_z_ZrPY3mPulRKMR6T7lMdrnWDAx_OXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
