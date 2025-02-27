@@ -90,12 +90,7 @@ For questions or support, please reach out to:
 - **GitHub:** https://github.com/moh-a-abde
 - **Email:** (Add your contact email here)
 
-
-==================================================
-          Immersion App - Documentation
-==================================================
-
-# Immersion App Documentation
+## Documentation
 
 This document provides an in-depth look at the architecture, design, and development guidelines for the Immersion App. It is intended for developers and contributors who want to understand how the app is built and maintained.
 
