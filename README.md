@@ -10,8 +10,6 @@ Immersion App is an interactive tour guide built using Flutter. Designed to deli
 - [Installation](#installation)
 - [Running the App](#running-the-app)
 - [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
 - [Documentation](#documentation)
 - [Contact](#contact)
 
@@ -65,22 +63,6 @@ For targeting a specific platform:
 - **analysis_options.yaml**: Dart analysis and linting rules.
 - **pubspec.yaml**: Project metadata and dependencies.
 
-## Contributing
-Contributions are welcome! To contribute:
-1. Fork the repository.
-2. Create a new branch:
-   git checkout -b feature/your-feature
-3. Commit your changes:
-   git commit -m "Add new feature"
-4. Push to your branch:
-   git push origin feature/your-feature
-5. Open a Pull Request with a detailed description of your changes.
-
-For further guidelines, please see the CONTRIBUTING.md file if available.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more information.
-
 ## Documentation
 For an in-depth overview of the project architecture, coding standards, testing guidelines, and deployment instructions, please refer to the Documentation section below.
 
@@ -112,28 +94,6 @@ Immersion App is an interactive tour guide built with Flutter. The app offers a 
 - **State Management:** Utilizes Flutter’s state management techniques. (Specify your choice if using Provider, Bloc, Riverpod, etc.)
 - **Backend Services:** Integrated with Firebase to handle authentication, data storage, and real-time updates.
 - **Routing & Navigation:** Implements Flutter’s Navigator for managing screen transitions and routing.
-
-## Folder Structure
-- **android/**: Contains code and resources specific to the Android platform.
-- **ios/**: Contains code and resources specific to the iOS platform.
-- **lib/**: The primary source code of the app. It typically includes:
-  - **screens/**: Different screens/pages of the application.
-  - **widgets/**: Reusable UI components.
-  - **models/**: Data models and business logic.
-  - **services/**: Code for handling API calls, Firebase interactions, etc.
-- **assets/**: Static resources (images, fonts, icons).
-- **firebase/**: Firebase configuration files and setup scripts.
-- **web/**: Code and configuration files for the web version.
-- **test/**: Unit and widget tests to verify the functionality of the app.
-- **analysis_options.yaml**: Contains linting and analysis rules for Dart.
-- **pubspec.yaml**: Lists project dependencies and metadata.
-
-## Development Guidelines
-- **Coding Standards:** Adhere to the Dart style guide (https://dart.dev/guides/language/effective-dart) and use the provided analysis_options.yaml for consistent linting.
-- **Commit Messages:** Write clear, concise commit messages that describe your changes.
-- **Branching Strategy:** Use feature branches to develop new features or fixes. Ensure the main branch remains stable.
-- **Pull Requests:** Include detailed descriptions and reference any related issues when submitting pull requests.
-- **Code Reviews:** All contributions should be reviewed by at least one other developer prior to merging.
 
 ## Testing
 - **Unit Testing:** Write tests for individual functions and business logic. Place tests in the /test directory.
